@@ -42,4 +42,42 @@ BlueShield is a mobile application designed to streamline crime tracking, optimi
 - Key Issues Found: Missing error messages for download failures
 - Resolutions: Implemented confirmation popups
 
-### 
+### NIELSEN'S HEURISTICS SCORES
+
+- Visibility of system status	             = 5/5
+- Match between system & real world	       = 5/5
+- User control & freedom                   = 5/5
+- Consistency & standards	                 = 5/5
+- Error prevention                         = 5/5
+- Recognition rather than recall           = 5/5
+- Flexibility & efficiency                 = 5/5
+- Aesthetic & minimalist design	           = 4/5
+- Help with errors                         = 2/5 
+- Help & documentation                     = 5/5
+
+## DESIGN & EVALUATION METHODS 
+
+- Research: Personas (Police Lieutenant, Crime Analyst, Community Liaison Officer), Scenario-based analysis
+- Low-Fidelity: Storyboard, Wireframes
+- High-Fidelity: Figma prototype with interactive transitions
+- Usability Testing: Cognitive Walkthrough (user perspective)
+- Expert Evaluation: Heuristic Evaluation (Nielsen's 10 principles)
+
+## KEY IMPROVEMENTS AFTER EVALUATION 
+
+- Issue: No direct officer communication
+  - Solution: Added dedicated chat feature on community page & homepage
+
+- Issue: No emergency call within app
+  - Solution: Added emergency call button on bottom taskbar
+
+- Issue: Limited search functionality
+  - Solution: Added general search feature across entire app
+
+- No download confirmation
+  - Solution: Added success/error popup messages for report downloads
+
+## CONTACT 
+
+- Email ID: sharenmariyamthomas@gmail.com
+- LinkedIn: www.linkedin.com/in/sharenthomas 
